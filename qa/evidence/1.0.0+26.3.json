@@ -1,0 +1,49 @@
+{
+  "release": "simple-smithing-polymer-compat-1.0.0+26.3.jar",
+  "version": "1.0.0+26.3",
+  "sha256": "51c2cea2196531c9a362038e07152f9413bf51f46836ba41bd94a8d25103514f",
+  "originals_unchanged": {
+    "simple_smithing_overhaul-fabric-2.9.14+26.3.jar": "fb6cbf8c13938d68fb19171dac386b5567d71625bce727b22d3380f6b7880126",
+    "defaulted-1.3.8.release-26.3-fabric.jar": "0f6efc6423902b83da78ce85a119c69536517b1a9af52ed7046858859ff582a0",
+    "codecui-26.3-1.4.3-fabric.jar": "4d07c219bd85b58283a0317d6f43cca838adf9cd16be321316cd32f2fb1be898"
+  },
+  "gameplay_assertions_per_phase": 172,
+  "gameplay_phases": [
+    "startup",
+    "reload"
+  ],
+  "network_and_pack_pass": true,
+  "fixture_free_startup_reload_shutdown_pass": true,
+  "jar_integrity_pass": true,
+  "verification_date": "2026-09-30",
+  "gameplay": {
+    "passed": true,
+    "startup": true,
+    "reload": true,
+    "shutdown": true,
+    "exit_code": 0,
+    "errors": []
+  },
+  "fixture_free": {
+    "passed": true,
+    "startup": true,
+    "reload": true,
+    "shutdown": true,
+    "exit_code": 0,
+    "errors": []
+  },
+  "network": {
+    "passed": true,
+    "official_vanilla_join": true,
+    "menu_network_transactions": true,
+    "resource_pack_integrity": true,
+    "resource_pack_sha256": "161a3f75888c45bf610565b0b6c7760e72026ef4f4af9565fb64272e58704e26",
+    "resource_pack_loaded": true
+  },
+  "limitations": [
+    "Native SSO client parity unverified; overlays have no native bypass.",
+    "Optional third-party mod combinations untested.",
+    "Pack generation/loading tested; autohost download acceptance not tested.",
+    "Graphical network harness requires sibling workspace launch metadata."
+  ]
+}

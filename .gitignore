@@ -1,0 +1,16 @@
+.gradle/
+build/
+libs/
+qa/runs/
+qa/deps/
+qa/network-run/
+qa/network-classes/
+qa/network-nested/
+qa/network-prefilled-evidence/
+qa/*.jar
+logs/
+run/
+__pycache__/
+*.pyc
+qa/network-*-evidence/
+qa/original-checksums.json

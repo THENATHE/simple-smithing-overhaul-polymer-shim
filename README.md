@@ -1,3 +1,7 @@
+> **Archived on 2026-10-04.** Future combined Minecraft 26.3 development continues in [Vanilla++ Quality of Life Suite](https://github.com/THENATHE/vanilla-plusplus-quality-of-life-suite). Existing standalone releases and source remain available here.
+>
+> The suite incorporates this component. Existing standalone installations remain a separate option; follow the suite installation instructions when migrating.
+
 # Simple Smithing Overhaul — Polymer Shim
 
 **A separate, server-side Polymer shim that brings Simple Smithing Overhaul's repair and enchantment systems to vanilla Minecraft clients on Fabric 26.3.**
